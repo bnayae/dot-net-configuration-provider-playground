@@ -1,0 +1,1 @@
+dot-net-configuration-provider-playground
